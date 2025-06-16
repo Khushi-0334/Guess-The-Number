@@ -26,6 +26,8 @@ A interactive web game built with **HTML**, **CSS**, and **Vanilla JavaScript**.
 
 ## 📁 Project Structure
 
+Guess-The-Number/
+
 ├── index.html # Main HTML page
 
 ├── style.css # Styling for the game
@@ -33,7 +35,6 @@ A interactive web game built with **HTML**, **CSS**, and **Vanilla JavaScript**.
 ├── script.js # Game logic in JavaScript
 
 └── README.md # Project documentation
-
 ## 🎮 How to Play
 
 1. Clone or download the repository.
