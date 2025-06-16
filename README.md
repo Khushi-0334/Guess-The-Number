@@ -27,8 +27,11 @@ A interactive web game built with **HTML**, **CSS**, and **Vanilla JavaScript**.
 ## 📁 Project Structure
 
 ├── index.html # Main HTML page
+
 ├── style.css # Styling for the game
+
 ├── script.js # Game logic in JavaScript
+
 └── README.md # Project documentation
 
 ## 🎮 How to Play
