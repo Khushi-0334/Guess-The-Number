@@ -1,6 +1,6 @@
 # 🎯 Guess the Number Game
 
-A beginner-friendly interactive web game built with **HTML**, **CSS**, and **Vanilla JavaScript**.
+A interactive web game built with **HTML**, **CSS**, and **Vanilla JavaScript**.
 
 ## 🚀 Features
 
@@ -16,7 +16,7 @@ A beginner-friendly interactive web game built with **HTML**, **CSS**, and **Van
 
 ## 🔗 Live Demo
 
-👉 [Click here to play the game] (https://khushi-0334.github.io/Guess-The-Number/)
+👉 Click here to play the game : https://khushi-0334.github.io/Guess-The-Number/
 
 ## 🛠 Technologies Used
 
